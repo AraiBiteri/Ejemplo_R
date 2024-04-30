@@ -13,5 +13,7 @@ git add.
 git status
 git commit -m "Este es el proceso que tenemos que aprendernos"
 ```
-Y si queremos poner un link tendreis que poner [Nombre que aparecera](http:)
+Y si queremos poner un link tendreis que poner [Nombre que aparecera](http://leonardo.ai/faq/)
+![Aqui ponemos una pwqueña descripcion de la imagen para las personas que no pueden ver y para que el buscador nos posicione mejor](https://uniscopio.com/wp-content/uploads/2019/02/logo_umon-350x350.jpg)
+
 
